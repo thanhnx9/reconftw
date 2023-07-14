@@ -24,7 +24,6 @@ mmh3                    # fav-up
 netaddr                 # dnsvalidator
 psutil                  # xnLinkFinder
 PySocks                 # pwndb
-requests                # multiple
 requests_futures        # cloud_enums
 retrying                # multiple
 s3scanner               # Tool
@@ -36,3 +35,11 @@ tqdm                    # multiple
 ujson                   # multiple
 urllib3                 # multiple
 subgpt                  # Tool
+aioconsole>=0.3.3,<0.4.0
+minikerberos==0.3.3
+neo4j>=4.1.1,<5.0.0
+requests>=2.27.1
+xmltodict>=0.12.0,<0.13.0
+pyee>=8.1.0,<9.0.0
+crackmapexec
+pyppeteer
